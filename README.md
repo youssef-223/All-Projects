@@ -2,8 +2,7 @@
 ## Table of Contents
 
 - [Machine/Deep Learning](#machinedeep-learning)
-- [GenAI (LLMs) Applications
-Name](#GenAI-Applications-(LLMs)
+- [GenAI Applications](#genai-applications)
 - [DevOps](#DevOps)
 - [Backend](#backend)
 - [Ain Shams Projects](#ain-shams-projects)
@@ -21,7 +20,7 @@ Name](#GenAI-Applications-(LLMs)
 | Object Detection with YOLO | https://github.com/youssef-223/MLOps_Projects/tree/master/Yolov3-tiny_ObjectDetection 
 
 
-### GenAI Applications (LLMs)
+### GenAI Applications
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
