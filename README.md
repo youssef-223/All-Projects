@@ -2,7 +2,8 @@
 ## Table of Contents
 
 - [Machine/Deep Learning](#machinedeep-learning)
-- [LLM Applications](#LLM-Applications)
+- [GenAI (LLMs) Applications
+Name](#GenAI-Applications-(LLMs)
 - [DevOps](#DevOps)
 - [Backend](#backend)
 - [Ain Shams Projects](#ain-shams-projects)
