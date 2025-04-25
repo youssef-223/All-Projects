@@ -20,14 +20,16 @@
 | Object Detection with YOLO | https://github.com/youssef-223/MLOps_Projects/tree/master/Yolov3-tiny_ObjectDetection 
 
 
-### LLM Applications
+### GenAI Applications (LLMs)
 
 | Name        | Links           | 
 | ------------- |:-------------:| 
 | Medical RAG QA      | https://github.com/youssef-223/Medical-RAG-QA
+| CrewAI ProcureBot | https://github.com/youssef-223/CrewAI-ProcureBot
 | RAG-Based Application with LLaMA 3.1 and Ollama | https://github.com/youssef-223/RAG-LLM-Development-Guidebook-from-PDFs
 | Mini RAG Application | https://github.com/youssef-223/mini-rag-app
 | Simple deployed chat bot | https://github.com/youssef-223/LLM-Applications/tree/master/Simple_Chat_Bot
+
 
 ### DevOps
 
