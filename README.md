@@ -27,6 +27,7 @@
 | Medical RAG QA      | https://github.com/youssef-223/Medical-RAG-QA
 | CrewAI ProcureBot | https://github.com/youssef-223/CrewAI-ProcureBot
 | RAG-Based Application with LLaMA 3.1 and Ollama | https://github.com/youssef-223/RAG-LLM-Development-Guidebook-from-PDFs
+| Custom Document chatbot | https://github.com/youssef-223/Document-chat
 | Mini RAG Application | https://github.com/youssef-223/mini-rag-app
 | Simple deployed chat bot | https://github.com/youssef-223/LLM-Applications/tree/master/Simple_Chat_Bot
 
